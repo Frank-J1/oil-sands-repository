@@ -95,3 +95,14 @@ Now, on to the important and meaningful findings:
 Modern thinking says that if the price of something goes down, you should generally cut back production to maintain a certain level of profit and keep your business. So, how do oil sands companies weather the storm of frequent oil fluctuation and regulatory burdens? How does Alberta compete with other countries such as Brazil, Guyana, Venezuela, all of the Middle East, and Russia(pre-war)?
 - From my understanding, stability, and access to the second-largest market (and more recently, with the Trans Mountain pipeline, the largest market)
 
+## Technologies used
+- Python
+- NumPy
+- Matplotlib
+- Pandas
+- Jupyter Notebook
+- More to come
+
+## Author
+Frank J
+
